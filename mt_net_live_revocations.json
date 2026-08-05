@@ -1,7 +1,7 @@
 {
   "app_id": "mt-net",
   "v": 1,
-  "published_at": "2026-08-05T04:00:11Z",
+  "published_at": "2026-08-05T04:01:35Z",
   "revoked_licenses": [],
   "blocked_hwids": [
     "b9b6f2375666087fd76a88111d9f78106cbc6c714b4b8eb27660738a7654e486"
@@ -12,8 +12,9 @@
     ]
   },
   "unblocked_licenses": [
-    "MTN-400B6186AB9748938F87202FCF4B513F"
+    "MTN-400B6186AB9748938F87202FCF4B513F",
+    "MTN-D8082BDE55D04BD39B502F8C9E4C537A"
   ],
   "signature_alg": "ed25519",
-  "signature": "svgKgAXD+dGuj/xEETsTU+zzF6tPR7xKgrNBxz0SDVWb3tC1PrT6DwNQN8C3VrJ3TaxlmSTQTJ1cJWdRVPdSDw=="
+  "signature": "X1gv85cy4xVA4W61eGZIq9/ihfN1qFB0M8XHikJoxZILJY6L3NMc1IvDiuTL5uMEahFW8j8Zdxla1Bcu2G4cAw=="
 }
